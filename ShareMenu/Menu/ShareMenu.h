@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ShareMenu.h
 //  ShareMenu
 //
 //  Created by stevenlfg on 15/7/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ShareMenu : UIView
 
 @end
-
